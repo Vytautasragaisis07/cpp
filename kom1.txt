@@ -1,0 +1,6 @@
+Jonas    5.3  22
+Povilas  4.7  24
+Antanas  2.5  28
+Petras   8.4  23
+Algis    5.9  25
+Jurgis   7.7  21

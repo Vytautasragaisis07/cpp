@@ -1,0 +1,6 @@
+Saulius  5.3  22
+Alvydas  4.7  24
+Arnas    2.5  28
+Algis    8.4  23
+Paulius  5.9  25
+Povilas  7.7  21
